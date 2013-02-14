@@ -1,6 +1,7 @@
 TODO
 ====
 - Strombuchse hinzufügen
+- Quartz aussuchen und einfügen
 - Board malen
 
 
