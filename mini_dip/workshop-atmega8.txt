@@ -1,0 +1,32 @@
+Stückliste exportiert aus C:/Users/Lyra/Documents/eagle/DevBoards/Workshop/workshop-atmega8.sch am 06.03.2013 21:30:52
+
+Part      Value                    Device                   Package            Description                          MF MPN      OC_FARNELL OC_NEWARK
+ANALOG                             M06LOCK_LONGPADS         1X06_LOCK_LONGPADS Header 6                                                             
+C1        22pF                     C-EU025-025X050          C025-025X050       CAPACITOR, European symbol                                           
+C2        22pF                     C-EU025-025X050          C025-025X050       CAPACITOR, European symbol                                           
+C3        100nF                    C-EU025-025X050          C025-025X050       CAPACITOR, European symbol                                           
+C4        100nF                    C-EU025-025X050          C025-025X050       CAPACITOR, European symbol                                           
+C5        47uF                     CPOL-EUE2.5-7            E2,5-7             POLARIZED CAPACITOR, European symbol                                 
+DIGITAL                            M08LOCK_LONGPADS         1X08_LOCK_LONGPADS Header 8                                                             
+IC1       MEGA8-P                  MEGA8-P                  DIL28-3            MICROCONTROLLER                                  unknown    unknown  
+IC2       7805TV                   7805TV                   TO220V             Positive VOLTAGE REGULATOR                                           
+ISP       AVR_SPI_PRG_6OFFSET_PADS AVR_SPI_PRG_6OFFSET_PADS 2X3_OFFSET         AVR ISP 6 Pin                                                        
+LED1                               LED5MM                   LED5MM             LED                                                                  
+LED2                               LED5MM                   LED5MM             LED                                                                  
+LED3                               LED5MM                   LED5MM             LED                                                                  
+LED4                               LED5MM                   LED5MM             LED                                                                  
+LED5                               LED5MM                   LED5MM             LED                                                                  
+POWER_IN                           M02LOCK_LONGPADS         1X02_LOCK_LONGPADS Header 2                                                             
+POWER_OUT                          M06LOCK_LONGPADS         1X06_LOCK_LONGPADS Header 6                                                             
+Q1        16MHz                    CRYSTALHC49S             HC49/S             CRYSTAL                                          1667008    unknown  
+R2        10k                      R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+R3                                 R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+R4                                 R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+R5                                 R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+R6                                 R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+R7                                 R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+R8                                 R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+R9                                 R-EU_0207/10             0207/10            RESISTOR, European symbol                                            
+S1                                 10-XX                    B3F-10XX           OMRON SWITCH                            B3F-1000 176432     36M3542  
+S2                                 10-XX                    B3F-10XX           OMRON SWITCH                            B3F-1000 176432     36M3542  
+S3                                 10-XX                    B3F-10XX           OMRON SWITCH                            B3F-1000 176432     36M3542  
